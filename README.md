@@ -1,9 +1,10 @@
 <div align="center">
 
-# Jonathan F. Silva
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jonathan%20F.%20Silva&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Engenheiro%20de%20Software%20Full%20Stack&descAlignY=58&descSize=22&descColor=38bdf8)
 
-### Engenheiro de Software Full Stack
-**Mercado Financeiro & Bancário · São Paulo · Remoto**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=680&lines=Mercado+Financeiro+%26+Banc%C3%A1rio+%7C+6%2B+anos+de+experi%C3%AAncia;.NET+%7C+C%23+%7C+Node.js+%7C+Java+%7C+AWS+%7C+Azure;Microsservi%C3%A7os+%7C+DDD+%7C+Hexagonal+%7C+Event-Driven;S%C3%A3o+Paulo%2C+SP+%E2%80%94+100%25+Remoto)](https://git.io/typing-svg)
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-f-silva-60a918162)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathanfrnnd3@gmail.com)
@@ -13,7 +14,7 @@
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
 Engenheiro de Software com **mais de 6 anos de experiência** no mercado financeiro e bancário, especializado em construir sistemas robustos, escaláveis e de alta disponibilidade.
 
@@ -30,39 +31,66 @@ Perfil **hands-on com visão de arquitetura**: entro no código e enxergo o sist
 
 ---
 
-## Stack Principal
+## 🛠️ Stack Principal
+
+<div align="center">
 
 **Backend**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Banco de Dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Cloud & Mensageria**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Observabilidade & DevOps**
 
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+</div>
 
 ---
 
-## Experiência Profissional
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jntcloudcod2019&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=9aa0a8&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jntcloudcod2019&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=9aa0a8"/>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jntcloudcod2019&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=9aa0a8&dates=9aa0a8)](https://git.io/streak-stats)
+
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jntcloudcod2019&theme=github-compact&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&area=true&area_color=38bdf8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=jntcloudcod2019&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 Experiência Profissional
 
 ### 🟢 Tech Services Lead — PREGIATO · Freelance
 `jan 2025 — mai 2026` · 1 ano 5 meses · São Paulo · Remoto
@@ -134,7 +162,7 @@ Suporte de infraestrutura e TI — redes, servidores Windows Server, banco de da
 
 ---
 
-## Formação Acadêmica
+## 🎓 Formação Acadêmica
 
 | Curso | Instituição | Período | Status |
 |---|---|---|---|
@@ -144,7 +172,7 @@ Suporte de infraestrutura e TI — redes, servidores Windows Server, banco de da
 
 ---
 
-## Certificações
+## 🏆 Certificações
 
 <div align="center">
 
@@ -159,21 +187,11 @@ Amazon Web Services · 2023
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jntcloudcod2019&show_icons=true&theme=github_dark&hide_border=true&bg_color=08090b&title_color=38bdf8&icon_color=38bdf8&text_color=9aa0a8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jntcloudcod2019&layout=compact&theme=github_dark&hide_border=true&bg_color=08090b&title_color=38bdf8&text_color=9aa0a8)
-
-</div>
-
----
-
 <div align="center">
 
 *"Eu não falhei. Apenas descobri 10 mil maneiras que não funcionam."*
 **— Thomas Edison**
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
